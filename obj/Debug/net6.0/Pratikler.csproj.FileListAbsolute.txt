@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.AssemblyInfo.cs
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pratikler\bin\Debug\net6.0\Pratikler.exe
+C:\Users\user\Desktop\Pratikler\bin\Debug\net6.0\Pratikler.deps.json
+C:\Users\user\Desktop\Pratikler\bin\Debug\net6.0\Pratikler.runtimeconfig.json
+C:\Users\user\Desktop\Pratikler\bin\Debug\net6.0\Pratikler.dll
+C:\Users\user\Desktop\Pratikler\bin\Debug\net6.0\Pratikler.pdb
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.dll
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\refint\Pratikler.dll
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.pdb
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\Pratikler.genruntimeconfig.cache
+C:\Users\user\Desktop\Pratikler\obj\Debug\net6.0\ref\Pratikler.dll
